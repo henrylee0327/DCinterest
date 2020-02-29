@@ -4,21 +4,21 @@
     justify-content: space-evenly;
 }
 .cozy1 {
-    height: 800px;
-    width: 400px;
+    height: 400px;
+    width: 300px;;
 }
 .creek1 {
-    height: 800px;
-    width: 400px;
+    height: 400px;
+    width: 300px;;
     
 }
 .cozy2 {
-    height: 800px;
-    width: 400px;
+    height: 400px;
+    width: 300px;;
 }
 .studio {
-    height: 600px;
-    width: 400px;
+    height: 300px;
+    width: 300px;;
 }
 .img-fluid2 {
     display: flex;
